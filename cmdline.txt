@@ -1,0 +1,29 @@
+git init
+
+initializ project 
+
+ git add *
+
+ajout d'élément
+
+
+git commit -m "message"
+
+envoie des nouvelles modif en local
+
+git push 
+
+envoi sur le  web
+
+
+git pull
+
+refresh ( maj)
+
+git checkout "non de la branch"
+ 	 log  with new branch
+
+git checkout -b "le nom de la branch" 
+	 création de nvl branch 
+
+
